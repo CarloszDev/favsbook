@@ -8,12 +8,6 @@ Projeto desenvolvido com a finalidade de aprendizado, utilizando tecnologias com
 
 - [@CarloszDev](https://github.com/CarloszDev)
 
-- [@DaniloSousaa](http://github.com/DaniloSousaa)
-
-- [@thiagoDEVasconcelos](https://github.com/thiagoDEVasconcelos)
-
-- [@josianadossantos](github.com/josianadossantos)
-
 
 ## Stack utilizada
 
